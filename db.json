@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "savi",
+      "dob": "14/03/2012",
+      "mobile": "+91 8309677177",
+      "status": "pending_consent"
+    }
+  ],
+  "consent_requests": [
+    {
+      "id": "req_xu3ehv",
+      "teen_id": 1,
+      "parent_email": "rakesh.rao@email.com",
+      "status": "pending",
+      "ad_personalisation": 0,
+      "watch_history": 0,
+      "comments_enabled": 1,
+      "created_at": "2026-07-21T08:43:55.978Z"
+    }
+  ],
+  "citizens": [
+    {
+      "aadhaar": "123456789012",
+      "name": "Rakesh Rao",
+      "mobile": "+91 98765 43221",
+      "otp": null
+    },
+    {
+      "aadhaar": "987654321098",
+      "name": "Sunita Sharma",
+      "mobile": "+91 98123 45678",
+      "otp": null
+    },
+    {
+      "aadhaar": "555566667777",
+      "name": "Amit Kumar Patel",
+      "mobile": "+91 90000 11111",
+      "otp": null
+    }
+  ]
+}
